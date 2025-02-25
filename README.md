@@ -25,3 +25,7 @@ The dataset used is `Credit Score Classification Dataset.csv`, which contains de
 
 ## Requirements
 Install the required libraries by running:
+pip install -r requirements.txt
+
+## Run the Model
+python src/credit_scoring_model.py
